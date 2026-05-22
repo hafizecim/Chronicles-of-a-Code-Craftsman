@@ -2,13 +2,12 @@
   <img width="515" height="456" alt="image" src="https://github.com/user-attachments/assets/b4cf02e1-2e71-4d21-b29e-480dd1414b63" />
 </p>
 
-Clean code is not something you learn only by reading principles.
-It requires both knowledge and continuous practice. Just like learning to ride a bicycle, understanding the theory is never enough unless you actually struggle, fail, improve, and repeat the process.
+This book is not simply about writing code.
+It is about discipline, craftsmanship, and the mindset required to survive difficult moments in software development.
 
-This book emphasizes craftsmanship in software development.
-When projects become chaotic, bugs appear after deployment, customers complain, and pressure increases, the quality of the code determines whether teams survive those moments successfully.
+The authors compare coding to riding a bicycle: understanding the theory alone is never enough. Real learning comes through practice, failure, repetition, and experience. Clean code is not achieved by memorizing principles, but by struggling with real problems and learning from every decision made during development.
 
-The authors explain that writing clean code demands discipline, patience, and hard work. Readers are expected to study real code examples, analyze mistakes, refactor problematic modules, and understand why each improvement matters.
+The book challenges the reader to go beyond “feel-good” software advice. It demands effort, patience, and deep attention. Readers are expected to study large amounts of code, analyze mistakes, follow detailed refactoring processes, and understand the reasoning behind every improvement.
 
 The book is divided into three parts:
 
