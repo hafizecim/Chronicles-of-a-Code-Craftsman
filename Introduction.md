@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a5273c6-a214-4e6e-a196-20896de29b46" width="487" height="465" alt="image" />
+  <img width="515" height="456" alt="image" src="https://github.com/user-attachments/assets/b4cf02e1-2e71-4d21-b29e-480dd1414b63" />
 </p>
 
 Clean code is not something you learn only by reading principles.
